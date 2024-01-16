@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![alanshi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alanshi&show_icons=true&theme=default#gh-light-mode-only)]
+![alanshi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alanshi&show_icons=true&theme=default#gh-light-mode-only)
 
